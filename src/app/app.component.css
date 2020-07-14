@@ -1,0 +1,17 @@
+.container {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .row {
+    margin: 20px 0;
+  }
+  .lable
+  {
+      text-align: left;
+      
+  }
+ input.ng-input
+ {
+     border: brown 1px solid;
+ }
