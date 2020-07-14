@@ -2,7 +2,7 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { map } from 'rxjs/operators';
-import { Post } from './post.model';
+import { Post } from './Post.model';
 
 @Component({
   selector: 'app-root',
